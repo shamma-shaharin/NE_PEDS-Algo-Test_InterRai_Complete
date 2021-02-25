@@ -1,0 +1,13 @@
+{
+  "browser": "chrome",
+  "baseUrl": "https://192.168.0.62:7002/",
+  "loginAPI": "auth/login",
+  "individualListAPI": "ma/asc/individualList?backLink=%2Fasc%2FindividualList&backType=1",
+  "createFormAPI": "ma/asc/assessment/create?backLink=%2fasc%2findividualList&backType=1&testForm=false&pgmId=&individualId=9584929",
+  "userName": "shaharin",
+  "password": "therap321#",
+  "providerCode": "SHA-OP",
+  "inputFilePath": "Input_File.csv",
+  "outputFilePath": "Output_File.csv",
+  "errorOutputFilePath": "Error_Output_File.csv"
+}
